@@ -1,4 +1,4 @@
-<h2 align="center">
+<h2 align="center" style={color👱‍♀️}>
   <br/>
   <a href="=https://praveenpage.netlify.app/"
  target="_blank">Live</a>
